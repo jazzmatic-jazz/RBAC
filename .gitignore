@@ -1,0 +1,7 @@
+*.pyc
+.env
+*__pycache__/
+
+api/migrations/*
+!/api/migrations/__init__.py
+*.swp
